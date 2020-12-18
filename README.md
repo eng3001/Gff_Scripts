@@ -9,4 +9,5 @@ All script are designed to be used on a functionally annotated genome. I used Br
 - Add_Gff_Note_To_Fasta.py : This script adds the "Note" section of a gff file into the fasta header.
 - IGV_Compatable_Gff_Note.py : This script edits the "Note" section of the gff file into IGV compatable format. Turns "Note" section into a single string.
 - Change_Contig_Name_FA_and_Gff.py : Script changes the genome fasta header to a user defined header. Gff scaffold names are changed accordingly.
+-jgi2gff3_wyatt_tkwon.py : Script is to be used to convert a jgi file to a properly formatted gff3 file
 
